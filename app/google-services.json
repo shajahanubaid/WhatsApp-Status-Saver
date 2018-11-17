@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1019440652833",
+    "firebase_url": "https://mastersstatussaver.firebaseio.com",
+    "project_id": "mastersstatussaver",
+    "storage_bucket": "mastersstatussaver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019440652833:android:3bfb7cc184d3ed42",
+        "android_client_info": {
+          "package_name": "com.techx.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019440652833-94rohbsj9d87fku4fdp5mo4g31n371pl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techx.statussaver",
+            "certificate_hash": "41fc98fbe8a0f441e587f57e1ec391b43dfbd8c5"
+          }
+        },
+        {
+          "client_id": "1019440652833-9ricok8kvb157i5o0e2or7ctaset373f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCixKpcylNgzMHUh820NH3bttayVA6WxQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019440652833-9ricok8kvb157i5o0e2or7ctaset373f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
