@@ -2,7 +2,7 @@
 ## Soruse Code whatsapp status downloader 
 
 :+1: 
-- [DOWNLOAD APP HERE...]((https://tipze.blogspot.com/2018/11/whatsapp-status-saver-android-new.html)
+- [DOWNLOAD APP HERE...](https://tipze.blogspot.com/2018/11/whatsapp-status-saver-android-new.html)
 
 
 ![screenshot_20181117_131907](https://user-images.githubusercontent.com/33887787/48660021-104d9200-ea81-11e8-8a25-e2c368cc766f.jpg)
